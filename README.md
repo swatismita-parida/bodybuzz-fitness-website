@@ -59,6 +59,10 @@ npm install
 node server.js
 ```
 
+🌐 Live Website
+
+bodybuzz-fitness-website.vercel.app
+
 ## 👩‍💻 Developer
 
 **Swatismita Parida**
